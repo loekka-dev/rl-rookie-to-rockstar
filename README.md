@@ -1,6 +1,6 @@
 # Reinforcement Learning: Rookie to Rockstar
 
-A course on Reinforcement Learning that starts from the ground up. The course is a series of YouTube videos where we build and train RL agents together. The Jupyter notebooks from the lectures are collected inside the `lectures` directory. Each lecture also has exercises listed in the video description. (This may grow into something more comprehensive over time.)
+A course on Reinforcement Learning that starts from the ground up. The course is a series of (coming) YouTube videos where we build and train RL agents together. The Jupyter notebooks from the lectures are collected inside the `lectures` directory. Each lecture also has exercises listed in the video description. (This may grow into something more comprehensive over time.)
 
 ---
 
