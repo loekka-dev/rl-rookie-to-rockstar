@@ -4,9 +4,9 @@ A course on Reinforcement Learning that starts from the ground up. The course is
 
 ---
 
-### Lecture 1: The spelled-out intro to reinforcement learning: building *banditgrad* 
+### Lecture 1: The spelled-out intro to reinforcement learning: building *Youbandit* 
 
-We implement the simplest possible reinforcement learning agent: a k-armed bandit. From scratch, we code up action selection, reward tracking, and incremental updates for estimating action values. This lecture focuses on (1) the idea of learning through interaction with an environment, (2) incremental gradient-like updates without backpropagation, and (3) the core concepts of exploration vs. exploitation.  
+We implement the simplest possible reinforcement learning agent: the YouTube Thumbnail Bandit. Each arm corresponds to a different thumbnail, and the reward is whether the user clicks. From scratch, we code up action selection, reward tracking, and incremental updates for estimating action values. This lecture focuses on (1) the idea of learning through interaction with an environment, (2) incremental gradient-like updates without backpropagation, and (3) the core concepts of exploration vs. exploitation.  
 
 ---
 ### Lecture 2: The spelled-out intro to : building *clickmore*
