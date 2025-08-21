@@ -9,6 +9,6 @@ A course on Reinforcement Learning that starts from the ground up. The course is
 We implement the simplest possible reinforcement learning agent: the YouTube Thumbnail Bandit. Each arm corresponds to a different thumbnail, and the reward is whether the user clicks. From scratch, we code up action selection, reward tracking, and incremental updates for estimating action values. This lecture focuses on (1) the idea of learning through interaction with an environment, (2) incremental gradient-like updates without backpropagation, and (3) the core concepts of exploration vs. exploitation.  
 
 ---
-### Lecture 2: The spelled-out intro to : building *clickmore*
+### Lecture 2: The spelled-out intro to : building *personplace*
 
 We implement a one-step MDP, also known as a contextual bandit, applied to banner ad placement. In follow-up videos, we will expand this into full reinforcement learning agents operating in multi-step environments. In this lecture, the focus is on (1) introducing the RL loop of context → action → reward, (2) implementing policy evaluation and simple policy updates, and (3) establishing the overall framework of reinforcement learning that includes exploration, exploitation, and the evaluation of cumulative reward.
