@@ -12,11 +12,3 @@ We implement the simplest possible reinforcement learning agent: the YouTube Thu
 ### Lecture 2: The spelled-out intro to : building *Personalbandit*
 
 We implement a one-step MDP, also known as a contextual bandit, applied to personalise a YouTube homepage. In follow-up videos, we will expand this into full reinforcement learning agents  operating in multi-step environments. In this lecture, the focus is on (1) introducing states in the RL loop of state → action → reward, (2) build a 2D belief table which opens up having a personalised strategy, (3) introducing and showing how subtle bugs can be hard to spot in RL research, (4) hinting about the need for agents that can generalise.
-
- ______  _                           _     _                                        _                          
-(_____ \| |                         | |   (_)         _                            | |         _               
- _____) | |          ____ ___   ___ | |  _ _  ____   | |_  ___      ____ ___   ____| |  _  ___| |_  ____  ____ 
-(_____ (| |         / ___/ _ \ / _ \| | / | |/ _  )  |  _)/ _ \    / ___/ _ \ / ___| | / )/___|  _)/ _  |/ ___)
-      | | |_____   | |  | |_| | |_| | |< (| ( (/ /   | |_| |_| |  | |  | |_| ( (___| |< (|___ | |_( ( | | |    
-      |_|_______)  |_|   \___/ \___/|_| \_|_|\____)   \___\___/   |_|   \___/ \____|_| \_(___/ \___\_||_|_|    
-                                                                                                               
