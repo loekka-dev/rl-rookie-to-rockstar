@@ -1,3 +1,15 @@
+                                                                                                                                                                                                                        
+88888888ba   88                                                     88         88                                                                                88                                                     
+88      "8b  88                                                     88         ""                    ,d                                                          88                      ,d                             
+88      ,8P  88                                                     88                               88                                                          88                      88                             
+88aaaaaa8P'  88               8b,dPPYba,   ,adPPYba,    ,adPPYba,   88   ,d8   88   ,adPPYba,      MM88MMM  ,adPPYba,       8b,dPPYba,   ,adPPYba,    ,adPPYba,  88   ,d8   ,adPPYba,  MM88MMM  ,adPPYYba,  8b,dPPYba,  
+88""""88'    88               88P'   "Y8  a8"     "8a  a8"     "8a  88 ,a8"    88  a8P_____88        88    a8"     "8a      88P'   "Y8  a8"     "8a  a8"     ""  88 ,a8"    I8[    ""    88     ""     `Y8  88P'   "Y8  
+88    `8b    88               88          8b       d8  8b       d8  8888[      88  8PP"""""""        88    8b       d8      88          8b       d8  8b          8888[       `"Y8ba,     88     ,adPPPPP88  88          
+88     `8b   88               88          "8a,   ,a8"  "8a,   ,a8"  88`"Yba,   88  "8b,   ,aa        88,   "8a,   ,a8"      88          "8a,   ,a8"  "8a,   ,aa  88`"Yba,   aa    ]8I    88,    88,    ,88  88          
+88      `8b  88888888888      88           `"YbbdP"'    `"YbbdP"'   88   `Y8a  88   `"Ybbd8"'        "Y888  `"YbbdP"'       88           `"YbbdP"'    `"Ybbd8"'  88   `Y8a  `"YbbdP"'    "Y888  `"8bbdP"Y8  88          
+                                                                                                                                                                                                                        
+                                                                                                                                                                                                                        
+
 # Reinforcement Learning: Rookie to Rockstar
 
 A course on Reinforcement Learning that starts from the ground up. The course is a series of (coming) YouTube videos where we build and train RL agents together. The Jupyter notebooks from the lectures are collected inside the `lectures` directory. Each lecture also has exercises listed in the video description. (This may grow into something more comprehensive over time.)
