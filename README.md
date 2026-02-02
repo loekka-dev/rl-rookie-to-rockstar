@@ -1,5 +1,14 @@
 # Reinforcement Learning: Rookie to Rockstar
 
+```
+ ______  _                           _     _                                        _                          
+(_____ \| |                         | |   (_)         _                            | |         _               
+ _____) | |          ____ ___   ___ | |  _ _  ____   | |_  ___      ____ ___   ____| |  _  ___| |_  ____  ____ 
+(_____ (| |         / ___/ _ \ / _ \| | / | |/ _  )  |  _)/ _ \    / ___/ _ \ / ___| | / )/___|  _)/ _  |/ ___)
+      | | |_____   | |  | |_| | |_| | |< (| ( (/ /   | |_| |_| |  | |  | |_| ( (___| |< (|___ | |_( ( | | |    
+      |_|_______)  |_|   \___/ \___/|_| \_|_|\____)   \___\___/   |_|   \___/ \____|_| \_(___/ \___\_||_|_|    
+```
+
 A course on Reinforcement Learning that starts from the ground up. The course is a series of (coming) YouTube videos where we build and train RL agents together. The Jupyter notebooks from the lectures are collected inside the `lectures` directory. Each lecture also has exercises listed in the video description. (This may grow into something more comprehensive over time.)
 
 ---
